@@ -265,6 +265,6 @@ if st.button("Evaluate Cardiovascular Profile Matrix", use_container_width=True)
 # ─── UI Footer ─────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="footer">
-    CardioPredict Platform · Core Academic Project Integration · Built using Streamlit Engine + scikit-learn Framework
+    CardioPredict Platform
 </div>
 """, unsafe_allow_html=True)
