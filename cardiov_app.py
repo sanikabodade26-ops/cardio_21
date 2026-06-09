@@ -123,8 +123,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ─── App Header ────────────────────────────────────────────────────────────────
-st.markdown("<h1>CardioPredict AI</h1>", unsafe_allow_html=True)
-st.markdown("<p style='color:#94a3b8; margin:0;'>Smart Cardio Risk Predictor</p>", unsafe_allow_html=True)
+st.markdown("<h1>Pulse and Predict</h1>", unsafe_allow_html=True)
+st.markdown("<p style='color:#94a3b8; margin:0;'>Early Disease Risk Profiler</p>", unsafe_allow_html=True)
 st.divider()
 
 # ─── Section 1: Demographics & Biometrics ──────────────────────────────────────
